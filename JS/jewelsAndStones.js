@@ -1,3 +1,4 @@
+//Taken from leetcode
 //Return the number of jewels (characters of string J) found in the stone pile (string S)
 
 const numJewelsInStones = (J, S) => {
